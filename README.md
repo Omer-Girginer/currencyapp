@@ -13,7 +13,7 @@ The application allows users to convert currencies and view exchange rates in a 
 
 ## Screenshot
 
-C:\Users\girgi\OneDrive\Documents\GitHub\currencyapp\images\Currency
+images\Currency
 
 ## Technologies Used
 
