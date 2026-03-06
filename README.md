@@ -11,6 +11,10 @@ The application allows users to convert currencies and view exchange rates in a 
 - Fast development with Vite
 - React component structure
 
+## Screenshot
+
+C:\Users\girgi\OneDrive\Documents\GitHub\currencyapp\images\screenshot.png
+
 ## Technologies Used
 
 - React
