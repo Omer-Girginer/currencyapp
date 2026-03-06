@@ -13,7 +13,7 @@ The application allows users to convert currencies and view exchange rates in a 
 
 ## Screenshot
 
-images\Currency
+![Currency App Screenshot]C:\Users\girgi\OneDrive\Masaüstü\Currency\screenshot.png
 
 ## Technologies Used
 
