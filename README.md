@@ -1,23 +1,20 @@
-# Currency Converter App
+# 💱 Currency Converter App
 
-This is a simple currency converter application built with React and Vite.
+This project is a simple currency converter application built using React and Vite.  
+It provides a clean and user-friendly interface to convert currencies and view exchange rates.
 
-The application allows users to convert currencies and view exchange rates in a simple interface.
+## 🚀 Features
 
-## Features
+- Convert currencies easily
+- Clean and minimal UI
+- Fast development environment with Vite
+- Component-based React structure
 
-- Convert currencies
-- Simple and clean UI
-- Fast development with Vite
-- React component structure
-
-## Screenshot
-
-## Screenshot
+## 📸 Screenshot
 
 ![Currency App Screenshot](src/images/Currency.png)
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - React
 - JavaScript
@@ -25,7 +22,7 @@ The application allows users to convert currencies and view exchange rates in a 
 - HTML
 - CSS
 
-## Installation
+## ⚙️ Installation
 
 Clone the repository:
 
@@ -39,10 +36,10 @@ Run the project:
 
 npm run dev
 
-## Purpose
+## 🎯 Purpose
 
-The purpose of this project is to practice React development and learn how to build a simple currency conversion application.
+This project was created to practice React development and understand how to build a simple and functional currency conversion application.
 
-## Author
+## 👨‍💻 Author
 
 Ömer Girginer
